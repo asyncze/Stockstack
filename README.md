@@ -1,5 +1,5 @@
 
-![logo](fav.png)
+![logo](fav.jpg)
 
 ## Status
 
